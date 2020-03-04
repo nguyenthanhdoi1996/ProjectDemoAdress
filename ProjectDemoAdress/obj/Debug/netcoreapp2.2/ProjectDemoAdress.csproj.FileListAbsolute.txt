@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\ProjectDemoAdress.deps.json
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\ProjectDemoAdress.runtimeconfig.json
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\ProjectDemoAdress.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\ProjectDemoAdress.dll
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\bin\Debug\netcoreapp2.2\ProjectDemoAdress.pdb
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.dll
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.pdb
+C:\Users\ASUS\source\repos\ProjectDemoAdress\ProjectDemoAdress\obj\Debug\netcoreapp2.2\ProjectDemoAdress.csprojAssemblyReference.cache
